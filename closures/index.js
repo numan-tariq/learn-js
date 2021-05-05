@@ -1,3 +1,7 @@
+/* Closures
+    - Functions define inside the function
+*/
+
 function outerFunction() {
     console.log('OuterFunction');
 
